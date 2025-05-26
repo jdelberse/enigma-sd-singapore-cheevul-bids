@@ -1,0 +1,1 @@
+../../../../../../../../.git/annex/objects/VQ/WW/MD5E-s10079--fa4788f3b5e620f0f457477f4b3885e0.rst/MD5E-s10079--fa4788f3b5e620f0f457477f4b3885e0.rst
